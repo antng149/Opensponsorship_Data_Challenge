@@ -1,13 +1,13 @@
 # OpenSponsorship Data Analytics Challenge
 
 ## Table of Contents
-- [Brand Engagement Deep Dive](#brand-engagement-deep-dive)
-- [Campaign Onboarding Analysis](#campaign-onboarding-analysis)
-- [User Search Behavior Insights](#user-search-behavior-insights)
+- [Deliverable 1: Brand Engagement Deep Dive](#brand-engagement-deep-dive)
+- [Deliverable 2: Campaign Onboarding Analysis](#campaign-onboarding-analysis)
+- [Deliverable 3: User Search Behavior Insights](#user-search-behavior-insights)
 
 ---
 
-## Deliverable 1 - Brand Engagement Deep Dive
+## Deliverable 1: Brand Engagement Deep Dive
 
 ### Introduction
 This analysis focuses on OpenSponsorship brand data, with the primary objective of uncovering patterns and factors influencing customer subscriptions.
@@ -28,7 +28,7 @@ This analysis focuses on OpenSponsorship brand data, with the primary objective 
 
 ---
 
-## Deliverable 2 - Campaign Onboarding Analysis
+## Deliverable 2: Campaign Onboarding Analysis
 
 ### Introduction
 This analysis delves into brand campaigns to comprehend how brands interact with their campaign publishing activities. The analysis revolves around several key questions:
@@ -51,7 +51,7 @@ This analysis delves into brand campaigns to comprehend how brands interact with
 
 ---
 
-## Deliverable 3 - User Search Behavior Insights
+## Deliverable 3: User Search Behavior Insights
 
 ### Introduction
 The focus of this analysis is on the search trends exhibited by users across different plan levels. Emphasis is placed on understanding and contrasting the behaviors of users on Plan Levels 0 and 3.
