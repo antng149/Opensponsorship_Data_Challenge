@@ -7,7 +7,7 @@
 
 ---
 
-## Brand Engagement Deep Dive
+## Deliverable 1 - Brand Engagement Deep Dive
 
 ### Introduction
 This analysis focuses on OpenSponsorship brand data, with the primary objective of uncovering patterns and factors influencing customer subscriptions.
@@ -28,7 +28,7 @@ This analysis focuses on OpenSponsorship brand data, with the primary objective 
 
 ---
 
-## Campaign Onboarding Analysis
+## Deliverable 2 - Campaign Onboarding Analysis
 
 ### Introduction
 This analysis delves into brand campaigns to comprehend how brands interact with their campaign publishing activities. The analysis revolves around several key questions:
@@ -46,4 +46,25 @@ This analysis delves into brand campaigns to comprehend how brands interact with
 - The top 5 brands with the highest total campaign budgets are identified.
 
 ### Analysis: Time to First Campaign
-- The primary objective is to determine the average
+- The primary objective is to determine the average time new brands take to publish a campaign.
+- The average time to first campaign is then calculated, revealing that on average, it takes about 54 days for new brands to release a campaign.
+
+---
+
+## Deliverable 3 - User Search Behavior Insights
+
+### Introduction
+The focus of this analysis is on the search trends exhibited by users across different plan levels. Emphasis is placed on understanding and contrasting the behaviors of users on Plan Levels 0 and 3.
+
+### Data Loading and Preprocessing
+- Datasets pertaining to user search activities are loaded.
+- Data preprocessing steps are performed.
+
+### Analysis of Search Trends for Plan Levels 0 and 3
+- A line plot visualizes search trends for Plan Levels 0 and 3 over a two-month period.
+
+### Day-over-Day Growth in Search Counts
+- The rate of change in search activity, represented as the day-over-day growth rate, is calculated for each plan level.
+
+### Visualization and Observations on Day-over-Day Growth Rates
+- The growth rates for Plan Levels 0 and 3 are visualized, revealing distinct patterns.
